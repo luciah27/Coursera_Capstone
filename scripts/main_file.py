@@ -1,4 +1,4 @@
-print("This notebook will be mainly used for the capstone project.")
+This notebook will be mainly used for the capstone project.
 
 import pandas as pd
 
